@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44556c83d2f726d4282443e12ca1eab1, type: 3}
+  m_Name: What popular Game accidentaly violated the Geneva conventions with a Symbol
+    in their Game
+  m_EditorClassIdentifier: 
+  QuestionText: What popular Game accidentaly violated the Geneva conventions with
+    a Symbol in their Game?
+  Answer1Text: Wolfenstein the new Order
+  Answer2Text: Among Us
+  Answer3Text: Metal Gear Rising
+  Answer4Text: Minecraft
+  rightAnswer: 1

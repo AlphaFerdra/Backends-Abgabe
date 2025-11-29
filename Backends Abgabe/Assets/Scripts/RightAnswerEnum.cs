@@ -1,0 +1,10 @@
+using UnityEngine;
+
+public enum RightAnswerEnum
+{
+    Answer1,
+    Answer2,
+    Answer3,
+    Answer4,
+    Answer5
+}

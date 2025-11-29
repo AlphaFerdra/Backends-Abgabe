@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44556c83d2f726d4282443e12ca1eab1, type: 3}
+  m_Name: What was the Name publicly known for fans of Nintendos next Console, before
+    it was revealed as Switch
+  m_EditorClassIdentifier: 
+  QuestionText: What was the Name publicly known for fans of Nintendos next Console,
+    before it was revealed as "Switch"?
+  Answer1Text: NX
+  Answer2Text: Revolution
+  Answer3Text: Evolution
+  Answer4Text: SX
+  rightAnswer: 0
